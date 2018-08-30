@@ -14,6 +14,7 @@ Task description:
 4. Prepare the JokeObject, JokeStruct to parse the JSON Objects. Joke types parse as an Enum - as JokeTypeEnum. 
 5. Prepare the GetJokesRequestHandler - to get the Jokes JSON using alamofire, and parse it. Use Generics to initiate the GetJokesRequestHandler, so that it can return array of both JokeObject, JokeStruct.
 6. In the ViewController viewDidLoad function:
+
         /*
          1. Request the array of JokeObject
          2. Assign the first object of the array to the variable
