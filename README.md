@@ -35,3 +35,5 @@ You'll have 15 minutes to complete this task. While performing the task - make t
 
 To receive the BUDU.ua certificate for JsonParsingSwift4ObjectMapper Test Project - you'll need to pass the test, staying in the same room with your mentor, and he confirms the successful test passing.
 
+The implementations:
+1. Eugene https://www.youtube.com/watch?v=xGZIRNmD9QQ&feature=youtu.be
